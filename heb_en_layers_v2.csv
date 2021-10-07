@@ -1,0 +1,195 @@
+,Hebrew,English
+0,תצלומי אוויר,aerial photos
+1,תצלום אוויר 2012,aerial photograph 2012
+2,תצלום אוויר 2010,aerial photo 2010
+3,תצלום אוויר 1989,aerial photograph 1989
+4,תצלום אוויר 1972,aerial photograph 1972
+5,תצלום אוויר 1957,1957 aerial photograph
+6,תצלומי אוויר 1945,aerial photographs 1945
+7,ניסוי פייתון בפאר 100 מטר,python experiment in luxury 100 meters
+8,מודל ויזואליזציה,visualization model
+9,היפר-ריאליזם,hyper-realism
+10,ייעודי קרקע,dedicated land
+11,מודל וקטורי,vector model
+12,החלוץ 54- מודל,the striker 54- model
+13,שיפועי הקרקע,ground slopes
+14,נתוני פשיעה,crime data
+15,סכסוכי שכנים 2015,neighbor conflicts 2015
+16,עבירות 2010_2015,offenses 2010_2015
+17,פשיעה 2013,crime 2013
+18,נתוני פשע 2010,crime data 2010
+19,נתוני פשע 2005,crime data 2005
+20,נתוני פשע 2003,crime data 2003
+21,שכירות,rent
+22,דירות שכירות מהארנונה,rented apartments from the property tax
+23,קריאות למוקד 106,calls to hotline 106
+24,דירות להשכרה,apartments for rent
+25,נתונים העירייה,data from the municipality
+26,מבנים לשימור (היפר ריאליסטי),buildings for conservation (hyper-realistic)
+27,מבנים לשימור,buildings for conservation
+28,מקלטים ציבוריים,public shelters
+29,מספר תושבים- אזור סטטיסטי,number of residents - statistical area
+30,חולי קורונה- אזור סטטיסטי מרץ 2021,corona patients - statistical area march 2021
+31,דירוג סוציאו-אקונומי,socio-economic rating
+32,אשכול סוציו-אקונומי הדר 2017,citrus socio-economic cluster 2017
+33,שינוי דירוג האשכול ביחס לשנת 2015,change of cluster rating relative to 2015
+34,אוכולסיה- נכויות,population - disabilities
+35,אחוז הקשישים בעלי נכות מכלל הקשישים,percentage of the elderly with a disability of all the elderly
+36,אחוז האזרחים הותייקים שמקבלים פנסיה ממקומות העבודה מתוך כלל הקשישים,the percentage of senior citizens who receive a pension from the workplace out of all the elderly
+37,אחוז התושבים בעלי מוגבלויות,percentage of residents with disabilities
+38,מקבל קצבת סיעוד,receives a nursing allowance
+39,ילדים זכאים לקצבת ילד נכה,children are entitled to a disabled child allowance
+40,מקבל קצבת נכות,receives a disability pension
+41,אוכלוסיה- פילוח גילאים,population - segmentation of ages
+42,גילאי 85 ומעלה - אחוז מתוך כלל האוכלוסיה,ages 85 and over - a percentage of the total population
+43,גילאי 75-84 - אחוז מתוך כלל האוכלוסיה,ages 75-84 - percent of the total population
+44,גילאי 65-74 - אחוז מתוך כלל האוכלוסיה,ages 65-74 - percentage of the total population
+45,גילאי 55-64 - אחוז מתוך כלל האוכלוסיה,ages 55-64 - percentage of the total population
+46,גילאי 45-54 - אחוז מתוך כלל האוכלוסיה,ages 45-54 - percentage of the total population
+47,גילאי 35-44 - אחוז מתוך כלל האוכלוסיה,ages 35-44 - percentage of the total population
+48,גילאי 18-34 - אחוז מתוך כלל האוכלוסיה,ages 18-34 - percentage of the total population
+49,גילאי 17-0 - אחוז מתוך כלל האוכלוסיה,ages 17-0 - a percentage of the total population
+50,אוכולסיה- פילוח לקבוצות גיל,population - segmentation into age groups
+51,אזרחים ותיקים (65+)- אחוז מתוך כלל האוכלוסיה,senior citizens (65+) - percentage of the total population
+52,בוגרים - אחוז מתוך כלל האוכלוסיה,adults - percentage of the total population
+53,ילדים- אחוז מתוך כלל האוכלוסיה,children - percentage of the total population
+54,אוכלוסיה- גברים/נשים,population - men / women
+55,גברים - אחוז מתוך כלל האוכלוסיה,men - a percentage of the total population
+56,נשים - אחוז מתוך כלל האוכלוסיה,women - a percentage of the total population
+57,אוכלוסיה- פרנסה,population - livelihood
+58,השלמה לקצבת הנכות לאזרח וותיק,supplement to a disability pension for a senior citizen
+59,השלמת הכנסה אזרח וותיק משפחות,income supplement senior citizen families
+60,מקבלי קצבת אזרח ותיק,recipients of senior citizen pension
+61,שכר כולל מפנסיה - חציון,wage including pension - median
+62,הכנסה מעבודה עצמאית - חציון,income from self-employment - median
+63,שכר כולל מעבודה (לא כולל עבודה במשק בית),total wages from work (excluding work in the household)
+64,אוכלוסיה- מצב משפחתי,population - marital status
+65,רווק - מבוגרים,single - adults
+66,אלמן - אזרחים ותיקים,widower - senior citizens
+67,אחוז האזרחים הותיקיים שהם אלמנים+גרושים+רווקים מכלל אוכלוסית האזרחים הוותיקים,percentage of senior citizens who are widowed + divorced + single from the total senior citizen population
+68,מקבלת מזונות,receives alimony
+69,יחס חרדים - אזורים סטטיסטים,haredi attitude - statistical areas
+70,גבולות שכונת הדר,the boundaries of the hadar neighborhood
+71,גבול שכונת הדר,the border of the hadar neighborhood
+72,גבול תתי שכונות,sub-neighborhood boundary
+73,גבולות אזורים סטטיסטים,boundaries of statistical areas
+74,רקע- גבולת אזורים סטטיסטים,background - border of statistical areas
+75,בניינים ורחובות- שכונת הדר,buildings and streets - hadar neighborhood
+76,|בניינים בשכונת הדר (היפר ריאליסטי),
+77,An error occurred loading this layer|,|buildings in the hadar neighborhood (hyper-realistic)
+78,an error occurred loading this layer|,
+79,בניינים בשכונת הדר,buildings in the hadar neighborhood
+80,רחובות בהדר,streets in hadar
+81,שמות רחובות,street names
+82,"בניינים עם קשישים ע""פ דוח ארנונה",buildings with the elderly according to the property tax report
+83,|אחוז קשיקים ובודדים היפר-ריאליסטי,
+84,An error occurred loading this layer|,|percentage of shrubs and individuals hyper-realistic
+85,an error occurred loading this layer|,
+86,בניינים שיש בהם קשישים,buildings that have seniors
+87,בניינים שיש בהם קשישים נכים,buildings that have disabled seniors
+88,בניינים שיש בהם קשישים שמקבלים הנחה בארנונה,buildings that have elderly people who receive a tax deduction
+89,בנייני קשישים במרחב המדרגות,elderly buildings in the stairwell
+90,קשישים המרוחקים מסניפי הדואר,elderly people away from post offices
+91,קשישים המרוחקים ממרכולים,elderly people away from supermarkets
+92,קשישים המרוחקים מסניפי בנק,elderly people away from bank branches
+93,קשישים המרוחקים מבתי מרקחת,elderly people away from pharmacies
+94,קשישים המרוחקים מגינות קהילתיות,elderly people who are remote from community gardens
+95,בניינים עם קשישים על שיפוע קרקע תלול,buildings with seniors on a steep ground slope
+96,בניינים עם קשישים נכים על שיפוע קרקע תלול,buildings with disabled seniors on a steep ground slope
+97,מספר הקשישים המתגוררים בבניין,number of seniors living in the building
+98,בניינים מוזנחים + קשישים,neglected buildings + elderly
+99,בניינים בעלי 3 + קשישים,buildings with 3+ seniors
+100,נקודות עניין,points of interest
+101,קופות חולים,hmos
+102,בנקים,banks
+103,סניפי דואר,post offices
+104,מרכולים,supermarkets
+105,בתי מרקחת,pharmacies
+106,גנים ציבוריים,public parks
+107,ספריות,libraries
+108,מרכזים קהילתיים,community centers
+109,תחנות מפעל הפיס,lottery stations
+110,אנטנות סלולריות,cellular antennas
+111,מתקני כושר,exercise machines
+112,מגרשי ספורט,sports fields
+113,גני משחקים,playgrounds
+114,כלי מחזור,recycling tools
+115,ניטור אזרחי- סקרים,civilian monitoring - surveys
+116,סקר מיפוי קשישים,elderly mapping survey
+117,"מיפוי שכונת הדר ע""י צוות החמ""ל stakeholder - survey",mapping of the hadar neighborhood by the knesset staff stakeholder - survey
+118,ניטור אזרחי- סקר קשישים מצב בריאות,civilian monitoring - survey of the elderly and health status
+119,חיסון קורונה,corona vaccine
+120,האם ביקור אצל הרופא?,is a visit to the doctor?
+121,שייכות לקופת חולים,belonging to a health fund
+122,ניטור אזרחי- מצב הבניין,civilian monitoring - the condition of the building
+123,אצלנו בחצר- ועד בית,in our yard - a house committee
+124,סקר קשישים- מצב הבניין,elderly survey - the condition of the building
+125,ניטור אזרחי- אצלנו בחצר,civil monitoring - in our yard
+126,הבניינים לטיפול,the buildings for treatment
+127,סביבת הבניינים לטיפול,the environment of the buildings for treatment
+128,ועד בית כן/לא,and to a house yes / no
+129,חינוך,education
+130,תיכון,high school
+131,חטיבת ביניים,junior high
+132,בית ספר יסודי,elementary school
+133,גני ילדים,kinder gardens
+134,אפורמלי ביתי ספר יסודיים,informal elementary school
+135,אפורמלי גני ילדים,informal kindergartens
+136,תחבורה ציבורית,public transport
+137,מסלולי אוטובוס - חיפה,bus routes - haifa
+138,תחנות אוטובוס - חיפה,bus stations - haifa
+139,רווחה- נתונים,welfare - data
+140,בניינים בהם גרים ניצולי שואה,buildings where holocaust survivors live
+141,קובץ 118,file 118
+142,דו''ח קשישים באגף,elderly report in the wing
+143,רווחה- בתים חמים,welfare - warm homes
+144,מיקומי הבתים החמים,the locations of the warm homes
+145,רדיוסים לבתים החמים,radii for warm homes
+146,חברים בבית החם - מקור ברוך 5,friends in the hot house - makor baruch 5
+147,חברים בבית החם - עין דור 19,members of the hot house - ein dor 19
+148,חברים בבית החם - חדאד 8,friends in the hot house - haddad 8
+149,חברים בבית החם - יודפת 11,members of the warm house - yodfat 11
+150,"חברים בבית החם - יל""ג 7",members of the hot house - 7th birthday
+151,חברים בבית החם - ירושלים 29,members of the hot house - jerusalem 29
+152,נתונים מקרן שחף,data from the seagull fund
+153,אחראי_ות בניינים בשכונת הדר,responsible for buildings in the hadar neighborhood
+154,קהילות - נקודות,communities - points
+155,קהילות,communities
+156,אחראי_ות בניינים בשכונת הדר - נקודות,responsible for buildings in the hadar neighborhood - points
+157,רווחה- שירותי המחלקה,welfare - department services
+158,הדר נקודות עניין - מתוך קובץ פרופיל חברתי,citrus points of interest - from a social profile file
+159,הוסטלים ושירותים בקהילה,hostels and services in the community
+160,מרכזי תרבות ופנאי,cultural and leisure centers
+161,בתי אבות,retirement homes
+162,רמזים עירוניים,urban clues
+163,מבנים נטושים,abandoned buildings
+164,רחוב מסדה,masada street
+165,"עסקאות נדל""ן רחוב מסדה",masada street real estate transactions
+166,ממצאי סקר טבע עירוני - הגנת הטבע,findings of an urban nature survey - nature protection
+167,אתר פריחה,rash site
+168,שביל הליכה בסמוך לערוץ נחל אבן,a walking path near the nahal even gorge
+169,מתחמי טבע עירוני,urban nature complexes
+170,משרד השיכון,ministry of housing
+171,שיקום שכונות (גבולות),neighborhood rehabilitation (boundaries)
+172,ה'כלא הכפול' מדרגות,the 'double prison' stairs
+173,מרחק 250 מטר ממדרגות עירוניות,distance 250 meters from urban stairs
+174,מדרגות עירוניות,urban stairs
+175,OSM,OSM
+176,תיירות,tourism
+177,חנויות,stores
+178,מרכזים רפואיים,medical centers
+179,שירותים שונים,various services
+180,רחובות לחתך גבהים,streets cut heights
+181,בלפור,balfour
+182,הנביאים,the prophets
+183,הרצל,herzl
+184,שדרות הציונות,zionism blvd
+185,ארלוזורוב,arlozorov
+186,מסדה,masada
+187,הלל,praise
+188,גאולה,redemption
+189,בר גיורא,bar giora
+190,שמריהו לוין,shmaryahu levin
+191,סימון נקודות של הסטודנטים,marking points of students
+192,רחובות,streets
+193,מתחמים,complexes

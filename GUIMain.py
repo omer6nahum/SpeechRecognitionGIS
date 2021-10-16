@@ -63,7 +63,7 @@ if to_second_window:
                 break
             command = statement.split(' ')[0]  # show, close, clear
             if command not in ['show', 'close', 'clear']:
-                # speaker.Speak(f"Please Record again")
+                speaker.Speak(f"Please Record again")
                 listening.update(value='Please Record again')
                 second_window.Refresh()
                 continue
@@ -76,21 +76,21 @@ if to_second_window:
                 output = match_input_to_layout([heared], closed_list, w, threshold=0.4, max_vec=max_vec)
                 layer = output[0]
                 if layer is None:
-                    # speaker.Speak(f"Please Record again")
+                    speaker.Speak(f"Please Record again")
                     listening.update(value='Please Record again')
                     second_window.Refresh()
                 elif command == 'show':
-                    # speaker.Speak(f"Showing {layer}")
+                    speaker.Speak(f"Showing {layer}")
                     gis_controller.show(layer)
                     listening.update(value='')
                     second_window.Refresh()
                 elif command == 'close':
-                    # speaker.Speak(f"Closing {layer}")
+                    speaker.Speak(f"Closing {layer}")
                     gis_controller.hide(layer)
                     listening.update(value='')
                     second_window.Refresh()
                 else:
-                    # speaker.Speak(f"Please Record again")
+                    speaker.Speak(f"Please Record again")
                     listening.update(value='Please Record again')
                     second_window.Refresh()
         if event == "Exit":

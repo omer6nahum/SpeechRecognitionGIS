@@ -148,35 +148,36 @@ def f_006(s1, s2):
 
     return [BLEUscore]
 
+# TODO: To run interface, use GUIMain.py
 
-if __name__ == '__main__':
-    gis_controller = giscontroller()
-    closed_list = gis_controller.closed_list
-    print(f'Known list: {closed_list}')
-    with open('learned_weights.pkl', 'rb') as f:
-        w = pickle.load(f)
-    with open('max_vec.pkl', 'rb') as f:
-        max_vec = pickle.load(f)
-    while True:
-        statement = takeCommand()
-        if statement is None:
-            print('say again')
-            continue
-        statement = statement.lower()
-        if statement == 'done':
-            break
-        command = statement.split(' ')[0]  # show, hide, clear
-        if command not in ['show', 'close', 'clear']:
-            continue
-        if command == 'clear':
-            gis_controller.clear()
-        else:
-            heared = " ".join(statement.split(' ')[1:])
-            output = match_input_to_layout([heared], closed_list, w)
-            layer = output[0]
-            # print(layer)
-            if command == 'show':
-                gis_controller.show(layer)
-            elif command == 'close':
-                gis_controller.hide(layer)
+# if __name__ == '__main__':
+#     gis_controller = giscontroller()
+#     closed_list = gis_controller.closed_list
+#     print(f'Known list: {closed_list}')
+#     with open('learned_weights.pkl', 'rb') as f:
+#         w = pickle.load(f)
+#     with open('max_vec.pkl', 'rb') as f:
+#         max_vec = pickle.load(f)
+#     while True:
+#         statement = takeCommand()
+#         if statement is None:
+#             print('say again')
+#             continue
+#         statement = statement.lower()
+#         if statement == 'done':
+#             break
+#         command = statement.split(' ')[0]  # show, hide, clear
+#         if command not in ['show', 'close', 'clear']:
+#             continue
+#         if command == 'clear':
+#             gis_controller.clear()
+#         else:
+#             heared = " ".join(statement.split(' ')[1:])
+#             output = match_input_to_layout([heared], closed_list, w)
+#             layer = output[0]
+#             # print(layer)
+#             if command == 'show':
+#                 gis_controller.show(layer)
+#             elif command == 'close':
+#                 gis_controller.hide(layer)
         # print(match_input_to_layout([statement], closed_list, w)[0])

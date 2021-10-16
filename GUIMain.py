@@ -4,7 +4,7 @@ from numpy import array
 from GISController import giscontroller
 from main import takeCommand
 from main import match_input_to_layout
-# from win32com.client import Dispatch
+from win32com.client import Dispatch
 import pickle
 
 first_layout = [[Text("Press Launch to open the digital twin", font=("Arial", 17))], [Button("Launch")]]

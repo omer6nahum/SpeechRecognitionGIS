@@ -14,7 +14,7 @@ to_second_window = False
 gis_controller = None
 w = None
 closed_list = None
-# speaker = Dispatch("SAPI.SpVoice")
+speaker = Dispatch("SAPI.SpVoice")
 
 while True:
     event, values = first_window.read()
